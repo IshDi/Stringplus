@@ -1,6 +1,6 @@
 # s21_string+
 
-## Chapter II
+## Chapter I
 
 ## Information
 
@@ -111,7 +111,7 @@
 | 4 | void *trim(const char *src, const char *trim_chars) | Возвращает новую строку, в которой удаляются все начальные и конечные вхождения набора заданных символов (trim_chars) из данной строки (src). В случае какой-либо ошибки следует вернуть значение NULL |
 
 
-## Chapter III
+## Chapter II
 
 ## Part 1. Реализация функций библиотеки string.h
 
